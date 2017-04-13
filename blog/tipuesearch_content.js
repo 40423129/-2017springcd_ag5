@@ -1,1 +1,1 @@
-var tipuesearch = {"pages":[{"title":"About","text":"2016Fall 修課成員網誌","tags":"misc","url":"./pages/about/"},{"title":"協同產品設計實習  第五組 w1簡報","text":"上課~~~~","tags":"第5組","url":"./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zu-w1jian-bao.html"}]};
+var tipuesearch = {"pages":[{"text":"2016Fall 修課成員網誌","url":"./pages/about/","title":"About","tags":"misc"},{"text":"上課~~~~","url":"./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zu-w1jian-bao.html","title":"協同產品設計實習  第五組 w1簡報","tags":"第5組"}]};
